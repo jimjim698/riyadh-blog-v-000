@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: rgba(52,100,120,.85) center no-repeat;
+  background: linear-gradient(black,red) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
